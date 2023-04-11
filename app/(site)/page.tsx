@@ -16,7 +16,7 @@ export default async function Home() {
       </h1>
 
       <p className="mt-3 text-xl text-gray-600">
-        Looking for my first web developer role! Check out my projects!{" "}
+        I am a Web Developer! Check out my projects!{" "}
       </p>
 
       <h2 className="mt-24 font-bold text-gray-700 text-3xl">My Projects</h2>
